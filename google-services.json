@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "94101611533",
+    "firebase_url": "https://itenfinal.firebaseio.com",
+    "project_id": "itenfinal",
+    "storage_bucket": "itenfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94101611533:android:a1d1ce9b8c3681aa",
+        "android_client_info": {
+          "package_name": "com.codingwithmitch.googlemaps2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94101611533-hrrhk8lle2a2i4uju1qdj5js3kirum4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDafRliJ_QLWlsjMPAuCNexN8OD0yRT63w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
